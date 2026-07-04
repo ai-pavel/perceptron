@@ -1,6 +1,7 @@
 # neural-net
 
 [![CI](https://github.com/pavel-genai/neural-net/actions/workflows/ci.yml/badge.svg)](https://github.com/pavel-genai/neural-net/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/pavel-genai/neural-net/branch/main/graph/badge.svg)](https://codecov.io/gh/pavel-genai/neural-net)
 
 A neural network framework built from scratch using only NumPy.
 
