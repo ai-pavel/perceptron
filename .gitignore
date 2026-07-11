@@ -15,3 +15,4 @@ env/
 *.npz
 *.pkl
 .DS_Store
+.coverage
