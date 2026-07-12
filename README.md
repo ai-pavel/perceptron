@@ -1,7 +1,7 @@
-# neural-net
+# perceptron
 
-[![CI](https://github.com/ai-pavel/neural-net/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-pavel/neural-net/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/ai-pavel/neural-net/branch/main/graph/badge.svg)](https://codecov.io/gh/ai-pavel/neural-net)
+[![CI](https://github.com/ai-pavel/perceptron/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-pavel/perceptron/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/ai-pavel/perceptron/branch/main/graph/badge.svg)](https://codecov.io/gh/ai-pavel/perceptron)
 
 A neural network framework built from scratch using only NumPy.
 
